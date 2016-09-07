@@ -1,0 +1,19 @@
+{
+    "name": "pekkis/php-training",
+    "authors": [
+        {
+            "name": "Mikko Forsström",
+            "email": "pekkisx@gmail.com"
+        }
+    ],
+    "require": {
+        "zendframework/zend-soap": "^2.6",
+        "swiftmailer/swiftmailer": "^5.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Pekkis\\Koulutus\\": "src/"
+        }
+    }
+}
