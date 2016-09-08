@@ -8,7 +8,8 @@
     ],
     "require": {
         "zendframework/zend-soap": "^2.6",
-        "swiftmailer/swiftmailer": "^5.4"
+        "swiftmailer/swiftmailer": "^5.4",
+        "squizlabs/php_codesniffer": "^2.7"
     },
 
     "autoload": {
